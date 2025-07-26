@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Armaan
-![Snake animation](https://github.com/BBCnewslondon/BBCnewslondon/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 I'm a Physics and Mathematics student passionate about using software to solve complex problems. My academic background gives me a unique perspective on data science and machine learning, allowing me to bridge the gap between abstract theory and practical application. I'm driven by building efficient, impactful tools—whether it's modeling a physical system or developing scalable software.
 
 -   🔭 I’m currently building projects focused on **educational technology** and **data visualization**.
