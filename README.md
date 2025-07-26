@@ -1,10 +1,9 @@
 ## Hi there 👋
-##Github stats
+## Github stats
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBCnewslondon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-##Github trophies
 
 ## Top languages
 
