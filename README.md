@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about creating useful software, sci
 
 ## 🚀 Featured Projects
 
-- [Project Alpha](https://github.com/BBCnewslondon/ProjectAlpha) &mdash; A Python toolkit for data exploration and visualization.
-- [WebXpress](https://github.com/BBCnewslondon/WebXpress) &mdash; A modern web app starter template using React and Node.js.
+- [My website](https://github.com/BBCnewslondon/My-portfolio-website) &mdash; A portfolio website which showcases all the things I've made, as well as showcasing my javascript.
+- [The Lorenz attractor](https://github.com/BBCnewslondon/The_Lorenz_attractor) &mdash; A python project in which the famous chaos theory equation is plotted in 3d. As well as the double pendulum
 
 ---
 
