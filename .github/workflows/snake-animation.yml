@@ -25,7 +25,7 @@ jobs:
         uses: platane/snk@v3
         with:
           # Your GitHub username. This is the only required input.
-          github_user_name: ${{BBCnewslondon}}
+          github_user_name: BBCnewslondon
           
           # A list of SVG output files to generate.
           # The file name is your choice, but 'dist' is a common directory for generated files.
