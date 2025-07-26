@@ -67,6 +67,15 @@ Welcome to my GitHub profile! I'm passionate about creating useful software, sci
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Astropy](https://img.shields.io/badge/Astropy-6D6E71?style=for-the-badge&logo=astropy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB13B?style=for-the-badge&logo=python&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-170458?style=for-the-badge&logo=librosa&logoColor=white)
+![pandas-ta](https://img.shields.io/badge/pandas--ta-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ---
 
