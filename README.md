@@ -1,19 +1,19 @@
-# 👋 Hi there, I'm BBCnewslondon!
+# 👋 Hi there, I'm Armaan
 
-Welcome to my GitHub profile! I'm passionate about software development, data science, and open-source collaboration.
+Welcome to my GitHub profile! I'm passionate about creating useful software, scientific exploration and data science, especially in machine learning.
 
 ---
 
 ## ✨ About Me
 
-- 🔭 I’m currently working on: Awesome open-source projects and personal experiments.
+- 🔭 I’m currently working on: revolutionizing the world of education.
 - 🌱 I’m currently learning: Advanced data science, Rust, and modern web frameworks.
 - 👯 I’m looking to collaborate on: Python, machine learning, and JavaScript projects.
 - 🤔 I’m looking for help with: Optimizing ML models and scalable back-ends.
 - 💬 Ask me about: Python, React, AI, or anything tech!
 - 📫 How to reach me: See “Connect with me” below.
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I love mixing code with coffee!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I learned to code because I found it a shortcut to doing many things in life.
 
 ---
 
