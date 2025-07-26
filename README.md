@@ -34,11 +34,6 @@ Welcome to my GitHub profile! I'm passionate about creating useful software, sci
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 🌱 Contributions Graph
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=BBCnewslondon&theme=tokyonight)
 
 ---
 
