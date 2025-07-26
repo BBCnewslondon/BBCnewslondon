@@ -79,5 +79,5 @@ I'm always open to discussing new projects, collaboration opportunities, or just
 -   **[LinkedIn](https://linkedin.com/in/your-profile)**
 -   **[Twitter](https://twitter.com/your-handle)**
 -   **[Portfolio](https://your-website.com)**
-
+![Snake animation](https://github.com/BBCnewslondon/BBCnewslondon/blob/output/github-contribution-grid-snake.svg)
 ---
