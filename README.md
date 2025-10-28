@@ -1,23 +1,23 @@
-# 👋 Hi there, I'm Armaan
+#  Hi there, I'm Armaan
 
 </picture>
 
 I'm a Physics and Mathematics student passionate about using software to solve complex problems. My academic background gives me a unique perspective on data science and machine learning, allowing me to bridge the gap between abstract theory and practical application. I'm driven by building efficient, impactful tools—whether it's modeling a physical system or developing scalable software.
 
--   🔭 I’m currently building projects focused on **educational technology** and **data visualization**.
--   🌱 I’m deepening my expertise in **Rust**, **scalable back-ends**, and **ML model optimization**.
--   ⚡ Fun fact: I see coding as the ultimate shortcut for turning complex ideas into reality.
+-    I’m currently building projects focused on **educational technology** and **data visualization**.
+-    I’m deepening my expertise in **Rust**, **scalable back-ends**, and **ML model optimization**.
+-    Fun fact: I see coding as the ultimate shortcut for turning complex ideas into reality.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 -   **[Personal Portfolio Website](https://github.com/BBCnewslondon/My-portfolio-website)** &mdash; A responsive personal portfolio built with `JavaScript` and `React` to showcase my projects, skills, and technical articles.
 -   **[Chaos Theory Visualizer](https://github.com/BBCnewslondon/The_Lorenz_attractor)** &mdash; A scientific computing project in `Python` that uses `NumPy` and `SciPy` to numerically solve the differential equations for the Lorenz attractor and the double pendulum, visualizing the principles of chaos theory in 3D with `Matplotlib`.
 
 ---
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,7 +38,7 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 #### Core Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -74,11 +74,11 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 ---
 
-## 🌐 Get in Touch
+##  Get in Touch
 
 I'm always open to discussing new projects, collaboration opportunities, or just chatting about Python, AI, and physics. Feel free to connect with me!
 
 -   **[LinkedIn](https://linkedin.com/in/your-profile)**
--   **[Twitter](https://twitter.com/your-handle)**
+-   **[Email](as46g22@soton.ac.uk)**
 -   **[Portfolio](https://your-website.com)**
   ---
