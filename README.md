@@ -1,6 +1,5 @@
 #  Hi there, I'm Armaan
 
-</picture>
 
 I'm a Physics and Mathematics student passionate about using software to solve complex problems. My academic background gives me a unique perspective on data science and machine learning, allowing me to bridge the gap between abstract theory and practical application. I'm driven by building efficient, impactful tools—whether it's modeling a physical system or developing scalable software.
 
