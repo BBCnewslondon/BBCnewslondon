@@ -1,60 +1,71 @@
-#  Hi, I'm Armaan Sachdeva
+ Armaan Sachdeva
 
-I am a Physics Undergraduate transitioning into Software Engineering, Data Science, and Quantitative Finance roles. My work bridges rigorous mathematical theory with production-grade software, spanning computational astrophysics, machine learning, numerical simulation, and full-stack engineering. 
+Physics & Mathematics @ University of Southampton Applying first-principles thinking to quantitative finance and high-performance software.
 
-##  Tech Stack
+I view software through the lens of a Physicist: it is a system governed by constraints, where the goal is to maximize the Signal-to-Noise Ratio (SNR). Whether I'm isolating gravitational waves from detector noise or building low-latency trading engines, my work focuses on stripping away entropy to reveal the underlying mathematical truth.
 
-**Programming Languages:** 
-Python • C++17 • Rust • TypeScript/JavaScript • Dart • SQL • C 
+ Technical Toolkit
 
-**Machine Learning & AI:** 
-PyTorch • TensorFlow • OpenCV • PINNs • Gemini API • Optuna
+ Quantitative & Machine Learning
 
-**Web & Mobile:** 
-React Native • Flutter • Next.js • Node.js • Capacitor • WebSockets (Socket.io)
+Methodologies: Physics-Informed Neural Networks (PINNs), Hidden Markov Models (HMM), Bayesian Inference, Stochastic Calculus.
 
-**Tools & Databases:** 
-Git • Docker • PostgreSQL • PostGIS • SQLite • CMake
+ Systems & Infrastructure
 
----
+Performance: Memory safety in Rust, high-concurrency WebSockets, and geospatial indexing with PostGIS.
 
-##  Featured Projects
+Full-Stack Engineering
 
-### [Ombra Algorithmic Trading Framework](https://github.com/BBCnewslondon/ombra)
-> **Quant / Algorithmic Trading**
-* Maximized portfolio Sharpe ratios and expectancy while strictly limiting maximum drawdowns to under 15% by developing a multi-asset trading engine featuring HMM-based hidden regime detection and Optuna historical replay backtesting in Python.
+Production: Building responsive, data-heavy interfaces that bridge complex backends with user-centric frontends.
 
-### [Turf Runner (Location-Based Multiplayer Game)](https://github.com/BBCnewslondon/Turf-Runner)
-> **Full-Stack / Geospatial Engineering**
-* Delivered real-time multiplayer territory synchronization with precise closure validation by engineering a custom Haversine algorithm integrated with WebSocket state management and PostGIS.
-* Optimized real-time map rendering performance to 60 fps, achieving a 13x reduction in polygon complexity using Douglas-Peucker simplification (ST_Simplify).
+ Featured Research & Projects
 
-### [The Clarifyer (Astrophysical Signal Denoising)](https://github.com/BBCnewslondon/The_clarifyer)
-> **Machine Learning / Signal Processing**
-* Improved the Signal-to-Noise Ratio (SNR) of simulated gravitational waves and pulsar signals by up to 15 dB by engineering and training advanced deep learning autoencoders (1D CNN, U-Net, LSTM) in PyTorch.
+Ombra: Algorithmic Trading Framework
 
-### [Internship Automater](https://github.com/BBCnewslondon/internship_automater)
-> **AI / Pipeline Automation**
-* Engineered a modular, 4-phase LLM-powered application pipeline using the Gemini 1.5 API and LangChain to automatically parse job descriptions, research company initiatives via Tavily API, and tailor master CVs to specific roles with strict anti-hallucination guardrails.
+Focus: Non-stationary Time Series & Regime Detection.
 
----
+The Problem: Financial markets are non-stationary; a strategy that works in a "bull" regime often fails in a "volatile" one.
 
-##  GitHub Stats
+The Physics Analogy: Much like detecting phase transitions in matter (e.g., liquid to gas), Ombra uses Hidden Markov Models (HMM) to detect latent market "phases" and adjust strategy parameters dynamically.
 
-*(Note: These dynamic stat cards update automatically to reflect your latest coding activity!)*
+Math: Optimized risk-adjusted returns by maximizing the Sharpe Ratio:
 
-<div style="display: flex; gap: 15px;">
-  <a href="https://github.com/BBCnewslondon">
-    <img src="https://github-readme-stats.vercel.app/api?username=BBCnewslondon&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" alt="Armaan's GitHub Stats showing total stars, commits, PRs, and issues" />
-  </a>
-  <a href="https://github.com/BBCnewslondon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBCnewslondon&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" alt="Armaan's Top Languages graph highlighting Python, C++, Rust, and other frequently used languages" />
-  </a>
+
+$$S_p = \frac{R_p - R_f}{\sigma_p}$$
+
+
+while utilizing Optuna for Bayesian hyperparameter evolution.
+
+The Clarifyer: Signal Denoising
+
+Focus: Computational Astrophysics & Signal Processing.
+
+The Physics Analogy: An "algorithmic prism." Much like a prism separates white light into constituent wavelengths to reveal the source's composition, these models separate gravitational "chirps" from detector background noise.
+
+Implementation: Trained deep learning autoencoders (U-Net/LSTM) in PyTorch to achieve a +15 dB Signal-to-Noise Ratio (SNR) improvement for simulated pulsar signals.
+
+Turf Runner: Geospatial Multiplayer Game
+
+Focus: Real-time Systems & Computational Geometry.
+
+Douglas-Peucker Optimization: Achieved a 13x reduction in polygon complexity for real-time map rendering by recursively simplifying paths using the threshold $\epsilon$.
+
+Geodesic Logic: Engineered real-time territory synchronization using the Haversine formula to calculate great-circle distances:
+
+
+$$d = 2r \arcsin\left(\sqrt{\sin^2\left(\frac{\Delta \phi}{2}\right) + \cos \phi_1 \cos \phi_2 \sin^2\left(\frac{\Delta \lambda}{2}\right)}\right)$$
+
+ Analytics & Performance
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BBCnewslondon&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBCnewslondon&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58" width="42%" alt="Top Languages" />
 </div>
 
----
+ Let's Connect
 
-##  Let's Connect
+LinkedIn: Armaan Sachdeva
 
-- **LinkedIn:** [linkedin.com/in/armaan-sachdeva-79b68b214](https://linkedin.com/in/armaan-sachdeva-79b68b214)
-- **Email:** as45g22@soton.ac.uk
+Email: as45g22@soton.ac.uk
+
+Currently Researching: Stochastic Calculus, Market Microstructure, and Quantum Computing.
