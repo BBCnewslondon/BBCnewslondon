@@ -35,7 +35,7 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBCnewslondon &langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBCnewslondon&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -47,10 +47,10 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <>
+    <img src="https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight" alt="GitHub Profile Trophy" />
   </a>
 </p>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=BBCnewslondon)](https://github.com/ryo-ma/github-profile-trophy)
+      [![trophy](https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ##  My Tech Stack
