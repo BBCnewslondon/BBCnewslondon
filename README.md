@@ -47,9 +47,10 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <[![trophy](https://github-profile-trophy.vercel.app/?username=BBCnewslondon)](https://github.com/ryo-ma/github-profile-trophy)/>
+    <>
   </a>
 </p>
+      [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ##  My Tech Stack
