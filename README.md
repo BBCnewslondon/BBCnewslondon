@@ -47,7 +47,7 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=radical" />
   </a>
 </p>
 ---
