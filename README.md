@@ -101,7 +101,7 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 I'm always open to discussing new projects, collaboration opportunities, or just chatting about Python, AI, and physics. Feel free to connect with me!
 
--   **[LinkedIn](https://linkedin.com/in/your-profile)**
+-   **[LinkedIn](https://www.linkedin.com/in/armaan-sachdeva-79b68b214/)**
 -   **[Email](as46g22@soton.ac.uk)**
--   **[Portfolio](https://your-website.com)**
+-   **[Portfolio](https://my-portfolio-website-1nyi7esy0-bbcnewslondons-projects.vercel.app/)**
   ---
