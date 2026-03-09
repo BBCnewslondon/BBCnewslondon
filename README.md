@@ -35,8 +35,6 @@ I'm a Physics and Mathematics student passionate about using software to solve c
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBCnewslondon)](https://github.com/anuraghazra/github-readme-stats) />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBCnewslondon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
