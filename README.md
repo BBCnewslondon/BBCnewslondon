@@ -50,7 +50,6 @@ I'm a Physics and Mathematics student passionate about using software to solve c
     <img src="https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight" alt="GitHub Profile Trophy" />
   </a>
 </p>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ##  My Tech Stack
