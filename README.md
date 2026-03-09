@@ -44,7 +44,7 @@ I'm a Physics and Mathematics student passionate about using software to solve c
     <img src="https://streak-stats.demolab.com?user=BBCnewslondon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BBCnewslondon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophy"/>
   </a>
 </p>
 
