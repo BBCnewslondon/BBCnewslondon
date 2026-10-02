@@ -4,7 +4,7 @@
 
 I'm a Physics and Mathematics student passionate about using software to solve complex problems. My academic background gives me a unique perspective on data science and machine learning, allowing me to bridge the gap between abstract theory and practical application. I'm driven by building efficient, impactful tools—whether it's modeling a physical system or developing scalable software.
 
--    I’m currently building projects focused on **educational technology** and **data visualization**.
+-    I’m currently building projects focused on **algorithmic trading** and **app development**.
 -    I’m deepening my expertise in **Rust**, **scalable back-ends**, and **ML model optimization**.
 -    Fun fact: I see coding as the ultimate shortcut for turning complex ideas into reality.
 
